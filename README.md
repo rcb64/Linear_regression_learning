@@ -1,4 +1,5 @@
 🚀 Key Contributions & Features from Radu Bizga Nicolescu:
+
 1️⃣ Machine Learning & Data Science Techniques
 ✅ Multiple Linear Regression – Built a predictive model for NYC rent prices using scikit-learn.
 ✅ Feature Engineering – Selected and processed continuous & discrete variables to improve model accuracy.

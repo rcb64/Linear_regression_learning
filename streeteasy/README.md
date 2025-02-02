@@ -1,5 +1,33 @@
 # Codecademy + StreetEasy
 
+Radu's contributions: 
+Implemented multiple linear regression for rent prediction.
+Designed data visualization for better interpretability.
+Evaluated model performance using R-squared scores.
+
+Data Processing: Reads the dataset into a pandas DataFrame and preprocesses features.
+Model Training: Uses scikit-learn's LinearRegression model to predict rental prices.
+Data Visualization:
+Scatter plots for actual vs. predicted rents.
+Box plots for categorical features vs. rent.
+Scatter plots for continuous features vs. rent.
+Performance Evaluation: Computes the R-squared score for both training and test datasets.
+
+Technologies Used:
+
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Seaborn
+
+Matplotlib
+
+
 https://www.codecademy.com/content-items/d19f2f770877c419fdbfa64ddcc16edc
 
 [StreetEasy](www.streeteasy.com) is New York City's leading real estate marketplace — from studios to high-rises, Brooklyn Heights to Harlem.
